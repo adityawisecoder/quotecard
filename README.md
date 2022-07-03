@@ -1,5 +1,7 @@
 <h1 align="center">Quote Card📑</h1>
 <div align="center">A quote card for your GitHub README📑</div>
+<div align="center">Dynamic Quote Card Generator!</div>
+
 <br />
 
 ## Usage📝
@@ -53,7 +55,11 @@ https://github.com/amazing-AK/quotecard/api?theme=random
 
 ## Demo🧐
 <img src="https://quotecard.herokuapp.com/?theme=red" width="100%" height="100%"><br/>
+<br />
 
+## Improvements🌱<br />
+- Ability to customise quotes.
+- Mobile Reponsive
 <br />
 
 ## Star this repository🌟<br />
