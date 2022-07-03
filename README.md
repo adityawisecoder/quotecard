@@ -1,53 +1,60 @@
-# Quote Card📑
-A quote card for your GitHub README📑
+<h1 align="center">Quote Card📑</h1>
+<div align="center">A quote card for your GitHub README📑</div>
+<br />
 
-## Themes ⏩ (collapseable menu)
-1. White
-```javascript
- https://github.com/amazing-AK/quotecard/api?theme=white
-```
-preview
+## Usage📝
 
-2. Blue
-```javascript
-https://github.com/amazing-AK/quotecard/api?theme=blue
+Endpoint URL: `https://quotecard.herokuapp.com/`
+
+Embed this in your README:
+
+
+```html
+<!-- HTML -->
+<img src="https://quotecard.herokuapp.com/" alt="Quotes Card" />
 ```
-preview
+
+<details> 
+<summary> <h2> Customisation Guide⏩</h2> </summary>
+
+#### Themes
+1. Blue (Default)
+```javascript
+<img src="https://quotecard.herokuapp.com/" width="100%" height="100%"><br/>
+```
+<img src="https://quotecard.herokuapp.com/" width="100%" height="100%"><br/>
+
+2. White
+```javascript
+<img src="https://quotecard.herokuapp.com/?theme=white" width="100%" height="100%"><br/>
+```
+<img src="https://quotecard.herokuapp.com/?theme=white" width="100%" height="100%"><br/>
 
 3. Red
  ```javascript
-https://github.com/amazing-AK/quotecard/api?theme=red
+<img src="https://quotecard.herokuapp.com/?theme=red" width="100%" height="100%"><br/>
 ```
-preview
+<img src="https://quotecard.herokuapp.com/?theme=red" width="100%" height="100%"><br/>
 
 4. Orange
 ```javascript
-https://github.com/amazing-AK/quotecard/api?theme=orange
+<img src="https://quotecard.herokuapp.com/?theme=orange" width="100%" height="100%"><br/>
 ```
-preview
+<img src="https://quotecard.herokuapp.com/?theme=orange" width="100%" height="100%"><br/>
 
 5. Random
 ```javascript
 https://github.com/amazing-AK/quotecard/api?theme=random
 ```
+<img src="https://quotecard.herokuapp.com/?theme=random" width="100%" height="100%"><br/>
+ 
+</details>
+<br />
 
 ## Demo🧐
-![Quote Card](https://readme-jokes.vercel.app/api)
-![image](https://user-images.githubusercontent.com/72189258/177047907-a6b88c50-7e9b-40f5-834b-afc90ea8c767.png)
+<img src="https://quotecard.herokuapp.com/?theme=red" width="100%" height="100%"><br/>
 
 <br />
-<blockquote class="quote-card blue-card">
-          <p>
-            Strive not to be a success, but rather to be of value.
-          </p>
-  
-          <cite>
-            Albert Einstein
-          </cite>
-        </blockquote>
-<!-- Red Card
-Quote = Strive not to be a success, but rather to be of value.
-author = Albert Einstein -->
 
-## Star this repository🌟
+## Star this repository🌟<br />
 Developed with ❤️ by [Aditya Krishna🚀](https://github.com/amazing-AK)
