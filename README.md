@@ -33,6 +33,8 @@ https://github.com/amazing-AK/quotecard/api?theme=random
 
 ## Demo🧐
 ![Quote Card](https://readme-jokes.vercel.app/api)
+![image](https://user-images.githubusercontent.com/72189258/177047907-a6b88c50-7e9b-40f5-834b-afc90ea8c767.png)
+
 <br />
 <blockquote class="quote-card blue-card">
           <p>
