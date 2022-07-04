@@ -13,7 +13,8 @@ Embed this in your README:
 
 ```html
 <!-- HTML -->
-<img src="https://quotecard.herokuapp.com/" alt="Quotes Card" />
+<img src="https://quotecard.herokuapp.com/" alt="Quotes Card" width="100%" height="100%"/>
+
 ```
 
 <details> 
