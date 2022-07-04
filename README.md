@@ -60,6 +60,9 @@ https://github.com/amazing-AK/quotecard/api?theme=random
 ## Improvements🌱<br />
 - Ability to customise quotes.
 - Mobile Reponsive
+- Custom Font
+- Add insighful quotes to dataset
+
 <br />
 
 ## Star this repository🌟<br />
