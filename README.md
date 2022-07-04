@@ -62,7 +62,7 @@ https://github.com/amazing-AK/quotecard/api?theme=random
 - Mobile responsive
 - Ability to customise quotes.
 - Custom font
-- Add insighful quotes to dataset
+- Add insightful quotes to dataset
 
 <br />
 
