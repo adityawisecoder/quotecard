@@ -67,4 +67,4 @@ https://github.com/amazing-AK/quotecard/api?theme=random
 <br />
 
 ## Star this repository🌟<br />
-Developed with ❤️ by [Aditya Krishna🚀](https://github.com/amazing-AK)
+Developed with ❤️ by [Aditya Krishna🚀](https://github.com/adityawisecoder)
