@@ -1,3 +1,5 @@
+### Modify /api changes
+
 <h1 align="center">Quote Card📑</h1>
 <div align="center">A quote card for your GitHub README📑</div>
 <div align="center">Dynamic Quote Card Generator!</div>
@@ -6,7 +8,7 @@
 
 ## Usage📝
 
-Endpoint URL: `https://quotecard.herokuapp.com/`
+Endpoint URL: `https://quotecard.herokuapp.com/api`
 
 Embed this in your README:
 
