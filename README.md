@@ -58,6 +58,7 @@ https://github.com/amazing-AK/quotecard/api?theme=random
 
 ## Demo🧐
 <img src="https://quotecard.herokuapp.com/api?theme=red" width="100%" height="100%"><br/>
+<h6 align='right'>Please hit RELOAD if quote card is not visible</h6>
 <br />
 
 ## Improvements🌱<br />
