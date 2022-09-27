@@ -49,7 +49,7 @@ Embed this in your README:
 
 5. Random
 ```javascript
-https://github.com/amazing-AK/quotecard/api?theme=random
+<img src="https://quotecard.herokuapp.com/api?theme=random" width="100%" height="100%"><br/>
 ```
 <img src="https://quotecard.herokuapp.com/api?theme=random" width="100%" height="100%"><br/>
  
