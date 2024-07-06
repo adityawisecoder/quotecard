@@ -6,14 +6,14 @@
 
 ## Usage📝
 
-Endpoint URL: `https://quotecard.cyclic.app/api`
+Endpoint URL: `https://quotecard-backend.onrender.com/api`
 
 Embed this in your README:
 
 
 ```html
 <!-- HTML -->
-<img src="https://quotecard.cyclic.app/api" alt="Quotes Card" width="100%" height="100%"/>
+<img src="https://quotecard-backend.onrender.com/api" alt="Quotes Card" width="100%" height="100%"/>
 
 ```
 
@@ -23,39 +23,39 @@ Embed this in your README:
 #### Themes
 1. Blue (Default)
 ```javascript
-<img src="https://quotecard.cyclic.app/api" width="100%" height="100%"><br/>
+<img src="https://quotecard-backend.onrender.com/api" width="100%" height="100%"><br/>
 ```
-<img src="https://quotecard.cyclic.app/api" width="100%" height="100%"><br/>
+<img src="https://quotecard-backend.onrender.com/api" width="100%" height="100%"><br/>
 
 2. White
 ```javascript
-<img src="https://quotecard.cyclic.app/api?theme=white" width="100%" height="100%"><br/>
+<img src="https://quotecard-backend.onrender.com/api?theme=white" width="100%" height="100%"><br/>
 ```
-<img src="https://quotecard.cyclic.app/api?theme=white" width="100%" height="100%"><br/>
+<img src="https://quotecard-backend.onrender.com/api?theme=white" width="100%" height="100%"><br/>
 
 3. Red
  ```javascript
-<img src="https://quotecard.cyclic.app/api?theme=red" width="100%" height="100%"><br/>
+<img src="https://quotecard-backend.onrender.com/api?theme=red" width="100%" height="100%"><br/>
 ```
-<img src="https://quotecard.cyclic.app/api?theme=red" width="100%" height="100%"><br/>
+<img src="https://quotecard-backend.onrender.com/api?theme=red" width="100%" height="100%"><br/>
 
 4. Orange
 ```javascript
-<img src="https://quotecard.cyclic.app/api?theme=orange" width="100%" height="100%"><br/>
+<img src="https://quotecard-backend.onrender.com/api?theme=orange" width="100%" height="100%"><br/>
 ```
-<img src="https://quotecard.cyclic.app/api?theme=orange" width="100%" height="100%"><br/>
+<img src="https://quotecard-backend.onrender.com/api?theme=orange" width="100%" height="100%"><br/>
 
 5. Random
 ```javascript
-<img src="https://quotecard.cyclic.app/api?theme=random" width="100%" height="100%"><br/>
+<img src="https://quotecard-backend.onrender.com/api?theme=random" width="100%" height="100%"><br/>
 ```
-<img src="https://quotecard.cyclic.app/api?theme=random" width="100%" height="100%"><br/>
+<img src="https://quotecard-backend.onrender.com/api?theme=random" width="100%" height="100%"><br/>
  
 </details>
 <br />
 
 ## Demo🧐
-<img src="https://quotecard.cyclic.app/api?theme=red" width="100%" height="100%"><br/>
+<img src="https://quotecard-backend.onrender.com/api?theme=red" width="100%" height="100%"><br/>
 <h6 align='right'>Please hit RELOAD if quote card is not visible</h6>
 <br />
 
